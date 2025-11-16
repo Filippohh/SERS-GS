@@ -1,3 +1,8 @@
+Intgrantes:
+Gustavo Henrique Rodovalho Silva - RM: 563695 
+Filippo Picino Mendez - RM: 565994 
+Pedro Henrique de Souza Barreto - RM: 564437
+
 1. Instale as dependências:
 
    pip install pandas matplotlib numpy
@@ -20,3 +25,4 @@
 link vídeo:
 
 https://youtu.be/9UJZXxxYLyA
+
